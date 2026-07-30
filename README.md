@@ -84,7 +84,6 @@ import { cn } from "@/lib/utils";
 ## 🌗 Dark Mode
 
 The template includes dark mode support through Tailwind's `dark:` classes and CSS custom properties.
-
 ## 📚 Learn More
 
 - [Vite Documentation](https://vitejs.dev/)
@@ -92,11 +91,3 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Radix UI](https://www.radix-ui.com/)
-
-
-
-
-
-
-
-Built with ❤️ by the Dala team to help developers build faster and smarter.
